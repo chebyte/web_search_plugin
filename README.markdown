@@ -9,6 +9,7 @@ Simple example on how to query Google:
 ##your model
   **#link.rb**
      class Link < ActiveRecord::Base
+       include Chebyte::WebSearch
        web_search
      end
 

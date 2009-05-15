@@ -4,5 +4,3 @@ require 'curbemu'
 require 'cgi'
 require 'json'
 
-ActiveRecord::Base.send(:include, Chebyte::WebSearch)
-
