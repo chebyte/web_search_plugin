@@ -39,5 +39,5 @@ By default, only the 4 top results get retrieved, you can specify the exact amou
 * Full support of the google api
 * support more search engines (Yahoo, live etc...)
 
-Copyright (c) 2009 [chebyte - maurotorres@gmail.com], released under the MIT license
+Copyright (c) 2009 [chebyte - http://www.chebyte.com.ar], released under the MIT license
 
